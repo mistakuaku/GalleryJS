@@ -1,3 +1,4 @@
+//Code Edited by Patrick McGee
 var chico = [
    {description: "Selvester's Cafe",
     picture: "https://www.csuchico.edu/maps/images/buildings-photos/buildings-selvestors.jpg",
